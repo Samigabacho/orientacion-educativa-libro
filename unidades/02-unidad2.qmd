@@ -3,31 +3,141 @@ title: "Unidad 2. Modelos, líneas y corrientes de la orientación"
 ---
 
 ## 1. Introducción
-Los **modelos** son marcos que conectan teoría y práctica.
 
-## 2. Clasificaciones
-Rodríguez Moreno; Álvarez & Bisquerra; Sanchiz; Grañeras y Parras.
+Los **modelos de orientación** ofrecen marcos teórico-prácticos para planificar, aplicar y evaluar la intervención. En esta unidad se abordan los modelos clásicos (counseling, consulta, programas, institucional y tecnológico) y se vinculan con **situaciones reales de Educación Social**.
+
+::: {.callout-note}
+**Objetivo de la unidad**  
+Relacionar fundamentos teóricos con decisiones prácticas de intervención, incorporando criterios de calidad, prevención y equidad.
+:::
+
+---
+
+## 2. Clasificaciones y fuentes
+
+Síntesis de clasificaciones habituales (p. ej., @RodriguezEspinar1986; @Bisquerra1998; @MartinSole2011; @Sanchiz2009), destacando:
+- Enfoques **centrados en la persona** (counseling).
+- Enfoques **indirectos** (consulta).
+- Enfoques **universales y preventivos** (programas).
+- Enfoques **organizativos** (institucional).
+- Enfoques **mediados por TIC** (tecnológico).
+
+---
 
 ## 3. Modelos principales
-### 3.1 Counseling
-Fundamentos (Parsons, Rogers); características; ventajas/limitaciones; **ejemplo en Educación Social**.
 
-### 3.2 Consulta
-Relación triádica; asesoramiento indirecto; ventajas/limitaciones; **ejemplo**.
+### 3.1. Modelo de *Counseling* (asesoramiento)
 
-### 3.3 Programas
-Fases (necesidades→objetivos→actividades→evaluación); **ejemplo**.
+**Marco teórico.**  
+De la orientación vocacional de Parsons a la psicología humanista de Rogers, el *counseling* enfatiza la **relación de ayuda** centrada en la persona y la toma de decisiones autónoma [@Parsons1909; @Rogers1951; @Bisquerra1998].
 
-### 3.4 Institucional
-DO, EOEP, gabinetes; coordinación escuela–familia–comunidad; **ejemplo**.
+**Características.**
+- Relación **individual** y confidencial.
+- Finalidad: **autoconocimiento** y toma de decisiones.
+- Técnicas: entrevista, escucha activa, instrumentos psicométricos **como apoyo**.
+- Rol profesional: **facilitador** del desarrollo, no “experto que prescribe”.
 
-### 3.5 Tecnológico
-TIC, e-orientación, accesibilidad; **ejemplo**.
+**Ventajas y límites.**
 
-## 4. Enfoques emergentes
-Constructivista, integrador, crítico-comunitario.
+| Aportaciones | Límites |
+|---|---|
+| Atención profunda y personalizada | Alcance reducido (intervención individual) |
+| Desarrolla autonomía y decisiones informadas | Riesgo de sesgo clínico si se descontextualiza |
+| Útil en crisis y transiciones | Exige alta competencia relacional |
 
-## 5. Síntesis y actividades
-Cuadro comparativo; proyecto aplicando dos modelos.
+**Ejemplo en Educación Social.**  
+Acompañamiento individual a joven extutelado que inicia un itinerario de FP: 4–6 sesiones para clarificar metas, mapa de apoyos y plan de acción.
 
-> Sustituye estos epígrafes con el texto completo de la U2 que ya hemos elaborado (70–80% del manual).
+::: {.callout-tip}
+**Actividad**  
+Diseña un guion breve de entrevista (20–30 min) para explorar intereses, apoyos y barreras de un/a joven en transición a la vida adulta.
+:::
+
+---
+
+### 3.2. Modelo de Consulta
+
+**Marco teórico.**  
+La consulta desplaza el foco al **asesoramiento indirecto**: el orientador apoya a docentes/educadores/familias para que sean ellos quienes apliquen la intervención [@Caplan1970; @MartinSole2011; @Sanchiz2009].
+
+**Relación triádica.**
+Orientador (consultor) → Consultee (docente/educador/familia) → Cliente (alumno/grupo).
+
+**Fases.**
+1) Identificación y **formulación del problema**.  
+2) **Análisis** de causas (alumno–aula–familia–contexto).  
+3) **Plan de intervención** (el consultee ejecuta).  
+4) **Seguimiento** y valoración conjunta [@GranerasParras2008].
+
+**Ventajas y límites.**
+
+| Aportaciones | Límites |
+|---|---|
+| Multiplica impacto y prevención | Depende del compromiso del profesorado/consultee |
+| Empodera a equipos y familias | Puede quedarse en asesoramiento superficial |
+| Favorece coordinación escuela–comunidad | Requiere tiempo y clima colaborativo |
+
+**Ejemplo en Educación Social.**  
+Asesoramiento a tutores de un centro de protección de menores: diseño de pautas de convivencia y plan de tutorías grupales; el equipo educativo implementa y el orientador acompaña.
+
+::: {.callout-tip}
+**Actividad**  
+Simula una reunión de consulta (15 min). Roles: orientador/a, profesor/a, alumno/a. Objetivo: acordar un plan de asistencia y seguimiento de absentismo.
+:::
+
+---
+
+### 3.3. Modelo de Programas
+
+**Marco teórico.**  
+Responde a la necesidad de llegar a **todo el alumnado** desde la prevención y el desarrollo. Un programa es un **conjunto planificado** de acciones con objetivos, secuenciación y evaluación [@Morrill1974; @Bisquerra1998; @MartinSole2011].
+
+**Fases del programa.**
+
+1. **Detección de necesidades** (datos del centro, cuestionarios, indicadores comunitarios).  
+2. **Objetivos** claros y evaluables.  
+3. **Contenidos y actividades** (secuencia, tiempos, responsables, recursos).  
+4. **Implementación** y coordinación.  
+5. **Evaluación** (inicial, formativa y final) y **mejora**.
+
+**Ventajas y límites.**
+
+| Aportaciones | Límites |
+|---|---|
+| Universaliza la orientación y previene riesgos | Puede burocratizarse si se “cumple” sin sentido |
+| Permite evaluar impacto | Requiere recursos y coordinación |
+| Integra escuela–familia–comunidad | Riesgo de rigidez si no se adapta al contexto |
+
+**Ejemplos en Educación Social.**
+- **Prevención de abandono** en barrio vulnerable: tutorías grupales, refuerzo, mediación familiar y redes comunitarias.  
+- **Itinerarios vocacionales** para jóvenes en desempleo: autoconocimiento → exploración → plan de inserción.
+
+::: {.callout-note}
+**Guía rápida de calidad del programa**  
+Pertinencia (responde a necesidades) · Coherencia (objetivos–actividades–recursos) · Flexibilidad (ajustes) · Evaluabilidad (indicadores e instrumentos) [@GranerasParras2008].
+:::
+
+---
+
+### 3.4. Avance: Institucional y Tecnológico (resumen de lectura)
+
+- **Institucional (o de servicios):** orientación como **función organizativa** (DO, EOEP, gabinetes), derecho universal, trabajo multiprofesional. Riesgos: burocracia, recursos desiguales [@GranerasParras2008; @Sanchiz2009].  
+- **Tecnológico:** e-orientación, plataformas, videoconferencia, apps; oportunidades de acceso y personalización; cuidar brecha digital y vínculo humano [@Pantoja2009; @MartinSole2011].
+
+> Estos dos modelos se desarrollan con detalle en los siguientes apartados del capítulo (con ejemplos y actividades).
+
+---
+
+## 4. Enfoques emergentes (avance)
+
+- **Educativo-constructivista:** mediación y aprendizaje significativo.  
+- **Integrador:** combinación estratégica de modelos.  
+- **Crítico-comunitario:** orientación como emancipación y justicia social [@Freire1970; @Bisquerra1998].
+
+---
+
+## 5. Actividades de síntesis
+
+1. **Mapa comparativo** de los tres modelos trabajados (counseling–consulta–programas) aplicado a un mismo caso.  
+2. **Mini-diseño** de un programa (5 sesiones) para absentismo en 2º ESO.  
+3. **Rúbrica** de calidad del plan: pertinencia, coherencia, inclusión, evaluación.
