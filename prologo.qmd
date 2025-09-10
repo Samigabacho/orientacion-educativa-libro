@@ -2,10 +2,11 @@
 title: "Prólogo"
 ---
 
-Este libro web nace con la intención de proporcionar un recurso abierto para el
+Este libro web nace con la intención de proporcionar un recurso en abierto para el
 alumnado de **Educación Social**. Combina un enfoque **académico** con recursos **didácticos** (cuadros, ejemplos, actividades).
 
-- Las **citas** se gestionan con `referencias.bib`.
-- Puedes añadir figuras en `fig/` y referenciarlas como `@fig-evolucion`.
+- A lo largo de este matrial encontrarás **citas** que te llevarán a la referenvia original de donde se ha extraido dicha idea.
+- En el material además porás encontrar figuras e imagenes creadas por el autor o versionadas de la fuente original.
+- Además se presentan ejemplos y casos a lo largo del continido para tratar de aterrizar los contenidos sobre su aplicación.
 
-Agradecimientos a quienes han contribuido con materiales y revisión.
+Me gustaría dedicar este libro web a Inma, Julia y Samuel, sin vosotros nada habría sido posible.
