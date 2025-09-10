@@ -1,8 +1,9 @@
 ---
-title: "Orientación educativa en contextos sociales"
+title: "Orientación Educativa en Contextos Sociales"
 ---
 
-Bienvenido/a al libro web. Este manual reúne tres unidades:
+Bienvenido/a al libro web de la asignatura Orientación Educativa en Contexto Sociales. Este manual reúne tres unidades:
+
 - **U1 Fundamentos**: evolución histórica, concepto, principios, funciones y competencias.
 - **U2 Modelos**: counseling, consulta, programas, institucional y tecnológico, más enfoques emergentes (constructivista, integrador, crítico-comunitario).
 - **U3 Diseño y aplicación**: estrategias, recursos, técnicas, métodos y evaluación.
