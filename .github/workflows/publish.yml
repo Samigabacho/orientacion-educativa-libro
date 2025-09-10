@@ -26,6 +26,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: _site           # Carpeta que genera Quarto
+          publish_dir: _book           # Carpeta que genera Quarto
           publish_branch: gh-pages     # Rama de publicación
           force_orphan: true           # <— crea rama gh-pages “desde cero” si no existe
