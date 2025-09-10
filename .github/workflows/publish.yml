@@ -5,16 +5,27 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+# 👇 Permisos de escritura para poder publicar en gh-pages
+permissions:
+  contents: write
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      # Instala Quarto en el runner
       - uses: quarto-dev/quarto-actions/setup@v2
+
+      # Construye el libro (solo HTML)
       - name: Render site
         run: quarto render
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+
+      # Publica en la rama gh-pages
+      - name: Publish to GitHub Pages
+        uses: quarto-dev/quarto-actions/publish@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: _site
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
