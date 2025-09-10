@@ -1,0 +1,56 @@
+project:
+  type: book
+
+book:
+  title: "Orientación educativa en contextos sociales"
+  subtitle: "Manual para el Grado en Educación Social (UJA)"
+  author:
+    - name: "Tu Nombre"
+      affiliation: "Universidad de Jaén"
+  date: today
+  language: es
+  chapters:
+    - index.qmd
+    - prologo.qmd
+    - part: "Unidad 1 · Fundamentos"
+      chapters:
+        - unidades/01-unidad1.qmd
+    - part: "Unidad 2 · Modelos de orientación"
+      chapters:
+        - unidades/02-unidad2.qmd
+    - part: "Unidad 3 · Diseño y aplicación"
+      chapters:
+        - unidades/03-unidad3.qmd
+    - cierre.qmd
+  sidebar:
+    style: floating
+    search: true
+  page-navigation: true
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/Samigabacho/orientacion-educativa-libro
+  downloads: [pdf, epub]
+  favicon: fig/u2-modelos-cuadro.png
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme:
+      light: cosmo
+      dark: darkly
+    css: estilos.scss
+    number-sections: true
+    code-fold: false
+  pdf:
+    documentclass: scrbook
+    papersize: a4
+    toc: true
+  epub:
+    toc: true
+
+bibliography: referencias.bib
+# csl: apa-spanish.csl   # (Opcional) añade tu estilo APA en español más adelante
+execute:
+  freeze: auto

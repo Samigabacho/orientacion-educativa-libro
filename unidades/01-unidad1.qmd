@@ -1,0 +1,27 @@
+---
+title: "Unidad 1. Fundamentos de la orientación educativa y profesional"
+---
+
+## 1. Introducción
+La orientación es un **proceso continuo, preventivo e integral** dirigido a todas las personas y a lo largo de la vida.
+
+## 2. Origen y evolución
+Breve recorrido histórico (Parsons, Rogers, desarrollos en España: IOP, LOGSE, LOMLOE).
+
+## 3. Concepto, principios, funciones y áreas
+- **Concepto**: proceso de ayuda continuo.
+- **Principios**: prevención, desarrollo, intervención social, empowerment.
+- **Funciones**: diagnóstico, asesoramiento, programas, evaluación, coordinación, investigación.
+- **Áreas**: educativa, profesional/laboral, socio-comunitaria.
+
+::: {.callout-note}
+**Actividad**: elabora un mapa conceptual con principios y funciones.
+:::
+
+## 4. Competencias y formación del orientador/a
+Dimensiones de competencia (saber, saber hacer, saber ser) y retos actuales (TIC, inclusión, mediación).
+
+## 5. Síntesis
+La orientación ha pasado de lo asistencial a enfoques preventivos y comunitarios.
+
+> Amplía este capítulo pegando aquí el texto completo que ya hemos redactado para la U1.

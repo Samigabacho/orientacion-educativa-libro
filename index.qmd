@@ -1,0 +1,13 @@
+---
+title: "Orientación educativa en contextos sociales"
+---
+
+Bienvenido/a al libro web. Este manual reúne tres unidades:
+- **U1 Fundamentos**: evolución histórica, concepto, principios, funciones y competencias.
+- **U2 Modelos**: counseling, consulta, programas, institucional y tecnológico, más enfoques emergentes (constructivista, integrador, crítico-comunitario).
+- **U3 Diseño y aplicación**: estrategias, recursos, técnicas, métodos y evaluación.
+
+> **Objetivo del libro**
+> Ofrecer apuntes rigurosos y didácticos para estudiantes del Grado en Educación Social (UJA), con ejemplos aplicados y actividades.
+
+Para citar, usa `[@AutorAño]` y gestiona la bibliografía en `referencias.bib`.

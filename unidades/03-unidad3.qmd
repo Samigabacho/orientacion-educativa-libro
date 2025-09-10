@@ -1,0 +1,29 @@
+---
+title: "Unidad 3. Diseño y aplicación de la orientación"
+---
+
+## 1. Introducción
+La calidad de la orientación depende de un **diseño planificado y evaluable**.
+
+## 2. Diseño de programas
+Fases: necesidades, objetivos, contenidos, actividades, evaluación.
+
+## 3. Estrategias
+Prevención (primaria, secundaria, terciaria); individual y grupal; inclusión e interculturalidad.
+
+## 4. Recursos
+Humanos, materiales, tecnológicos y comunitarios.
+
+## 5. Técnicas
+Entrevista, inventarios, portafolio, dinámicas, mediación, coaching, mentoring, gamificación.
+
+## 6. Métodos
+Clínico/counseling, programas, consulta, participativos, basados en competencias, híbridos.
+
+## 7. Evaluación
+Inicial, formativa y sumativa; investigación-acción.
+
+## 8. Síntesis y actividades
+Diseño de un microprograma; mapa de recursos; evaluación de un PAT.
+
+> Pega aquí el desarrollo completo de la U3 que ya hemos redactado.
