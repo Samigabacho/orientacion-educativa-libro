@@ -40,10 +40,8 @@ format:
     theme:
       light: cosmo
       dark: darkly
-    css: estilos.scss
     number-sections: true
     code-fold: false
-
 
 bibliography: referencias.bib
 # csl: apa-spanish.csl   # (Opcional) añade tu estilo APA en español más adelante
