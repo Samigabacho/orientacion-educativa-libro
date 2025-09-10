@@ -2,10 +2,10 @@ project:
   type: book
 
 book:
-  title: "Orientación educativa en contextos sociales"
-  subtitle: "Manual para el Grado en Educación Social (UJA)"
+  title: "Orientación Educativa en Contextos Sociales"
+  subtitle: "Material docente para el Grado en Educación Social (UJA)"
   author:
-    - name: "Tu Nombre"
+    - name: "Samuel P. León"
       affiliation: "Universidad de Jaén"
   date: today
   language: es
