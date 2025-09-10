@@ -30,7 +30,7 @@ book:
     right:
       - icon: github
         href: https://github.com/Samigabacho/orientacion-educativa-libro
-  downloads: [pdf, epub]
+
   favicon: fig/u2-modelos-cuadro.png
 
 format:
@@ -43,12 +43,7 @@ format:
     css: estilos.scss
     number-sections: true
     code-fold: false
-  pdf:
-    documentclass: scrbook
-    papersize: a4
-    toc: true
-  epub:
-    toc: true
+
 
 bibliography: referencias.bib
 # csl: apa-spanish.csl   # (Opcional) añade tu estilo APA en español más adelante
