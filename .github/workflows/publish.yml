@@ -5,9 +5,8 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
-# 👇 Permisos de escritura para poder publicar en gh-pages
 permissions:
-  contents: write
+  contents: write   # <— Permiso de escritura para crear/actualizar gh-pages
 
 jobs:
   build-deploy:
@@ -15,17 +14,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Instala Quarto en el runner
+      # Instala Quarto
       - uses: quarto-dev/quarto-actions/setup@v2
 
-      # Construye el libro (solo HTML)
+      # Renderiza el libro (solo HTML)
       - name: Render site
         run: quarto render
 
-      # Publica en la rama gh-pages
-      - name: Publish to GitHub Pages
-        uses: quarto-dev/quarto-actions/publish@v2
+      # Publica en GitHub Pages (crea la rama si no existe)
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _site           # Carpeta que genera Quarto
+          publish_branch: gh-pages     # Rama de publicación
+          force_orphan: true           # <— crea rama gh-pages “desde cero” si no existe
