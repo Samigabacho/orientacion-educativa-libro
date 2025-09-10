@@ -40,6 +40,7 @@ format:
     theme:
       light: cosmo
       dark: darkly
+    css: estilos.scss
     number-sections: true
     code-fold: false
 
