@@ -1,29 +1,159 @@
 ---
-title: "Unidad 3. Diseño y aplicación de la orientación"
+title: "Unidad 3. Diseño y aplicación de la orientación: acciones, recursos, técnicas y métodos"
 ---
 
 ## 1. Introducción
-La calidad de la orientación depende de un **diseño planificado y evaluable**.
 
-## 2. Diseño de programas
-Fases: necesidades, objetivos, contenidos, actividades, evaluación.
+La orientación educativa y social requiere ser planificada de manera rigurosa. No se trata de actuaciones improvisadas, sino de **procesos sistemáticos** que integran el análisis de necesidades, la definición de objetivos, la selección de recursos y la evaluación de resultados.  
 
-## 3. Estrategias
-Prevención (primaria, secundaria, terciaria); individual y grupal; inclusión e interculturalidad.
+En esta unidad se estudian los elementos básicos para **diseñar, aplicar y evaluar programas de orientación**, destacando estrategias, recursos, técnicas y métodos. El objetivo es capacitar a los futuros profesionales para elaborar intervenciones fundamentadas, coherentes y adaptadas a contextos educativos y sociales.
 
-## 4. Recursos
-Humanos, materiales, tecnológicos y comunitarios.
+::: {.callout-note}
+**Objetivo de la unidad**  
+Conocer y aplicar los principios del diseño, implementación y evaluación de la orientación educativa en distintos contextos.
+:::
 
-## 5. Técnicas
-Entrevista, inventarios, portafolio, dinámicas, mediación, coaching, mentoring, gamificación.
+---
 
-## 6. Métodos
-Clínico/counseling, programas, consulta, participativos, basados en competencias, híbridos.
+## 2. Diseño de programas y acciones de orientación
 
-## 7. Evaluación
-Inicial, formativa y sumativa; investigación-acción.
+### 2.1. Fases del diseño
+1. **Detección de necesidades:** recogida de información mediante cuestionarios, entrevistas, observación o indicadores comunitarios.  
+2. **Definición de objetivos:** claros, realistas y evaluables.  
+3. **Selección de contenidos:** ajustados a las necesidades detectadas.  
+4. **Planificación de actividades:** temporalización, responsables, recursos.  
+5. **Evaluación y mejora continua:** valoración de logros e identificación de aspectos a perfeccionar.
 
-## 8. Síntesis y actividades
-Diseño de un microprograma; mapa de recursos; evaluación de un PAT.
+### 2.2. Criterios de calidad
+- **Pertinencia:** responde a necesidades reales.  
+- **Coherencia:** relación entre objetivos, actividades y recursos.  
+- **Flexibilidad:** capacidad de adaptación a cambios.  
+- **Evaluabilidad:** incorporación de indicadores y herramientas de seguimiento.
 
-> Pega aquí el desarrollo completo de la U3 que ya hemos redactado.
+::: {.callout-tip}
+**Actividad**  
+Elabora un esquema de programa de orientación de 4 sesiones para prevenir el absentismo en secundaria, incluyendo objetivos, actividades y criterios de evaluación.
+:::
+
+---
+
+## 3. Estrategias de orientación
+
+### 3.1. Según la finalidad
+- **Prevención primaria:** anticiparse a los problemas.  
+- **Prevención secundaria:** intervención temprana ante señales de riesgo.  
+- **Prevención terciaria:** evitar recaídas en situaciones ya presentes.
+
+### 3.2. Según la modalidad
+- **Intervención individual:** entrevistas, tutorías personalizadas.  
+- **Intervención grupal:** talleres, dinámicas, grupos de discusión.  
+- **Intervención comunitaria:** mediación, programas interinstitucionales.
+
+### 3.3. Inclusión e interculturalidad
+- Estrategias de apoyo a la diversidad cultural.  
+- Programas para la igualdad de género y la convivencia.  
+- Acciones de mediación escolar y comunitaria.
+
+---
+
+## 4. Recursos para la orientación
+
+### 4.1. Recursos humanos
+- Orientadores/as, educadores/as sociales, psicólogos/as, docentes, trabajadores/as sociales, familias y comunidad.
+
+### 4.2. Recursos materiales y tecnológicos
+- Guías, cuestionarios, inventarios de intereses.  
+- Plataformas digitales, apps de orientación, recursos multimedia.  
+- Herramientas para autoevaluación y búsqueda de información profesional.
+
+### 4.3. Recursos comunitarios
+- Servicios municipales, asociaciones, ONGs, entidades culturales y deportivas.
+
+::: {.callout-note}
+**Ejemplo aplicado**  
+Un educador social utiliza una red de recursos comunitarios (asociaciones juveniles, servicios de empleo y centros de salud) para apoyar un programa de inserción laboral.
+:::
+
+---
+
+## 5. Técnicas de orientación
+
+### 5.1. Individuales
+- Entrevista de orientación.  
+- Inventarios de intereses y cuestionarios de personalidad.  
+- Portafolio personal.  
+- Técnicas biográficas (línea de vida, árbol de metas).
+
+### 5.2. Grupales
+- Dinámicas de grupo.  
+- *Role playing*.  
+- Tutoría entre iguales.  
+- Grupos de discusión.
+
+### 5.3. Comunitarias
+- Asambleas comunitarias.  
+- Redes de apoyo social.  
+- Programas de mediación.
+
+### 5.4. Innovaciones metodológicas
+- **Coaching educativo.**  
+- **Mentoring.**  
+- **Gamificación.**
+
+---
+
+## 6. Métodos de orientación
+
+- **Método clínico (counseling):** intervención centrada en la relación de ayuda.  
+- **Método por programas:** planificación estructurada.  
+- **Método de consulta:** asesoramiento indirecto a agentes educativos.  
+- **Métodos emergentes:** aprendizaje-servicio, investigación-acción, orientación basada en competencias, metodologías híbridas.
+
+📊 **Tabla comparativa de métodos**
+
+| Método | Foco principal | Ventajas | Limitaciones |
+|--------|----------------|----------|--------------|
+| Clínico | Relación individual | Atención personalizada | Alcance limitado |
+| Programas | Prevención y desarrollo | Llega a todos | Exige recursos |
+| Consulta | Asesoramiento indirecto | Multiplica impacto | Depende del profesorado |
+| Emergentes | Participación y competencias | Flexibilidad e innovación | Riesgo de eclecticismo |
+
+---
+
+## 7. Evaluación de la orientación
+
+### 7.1. Tipos de evaluación
+- **Inicial:** diagnóstico de necesidades y contexto.  
+- **Formativa:** seguimiento durante el proceso.  
+- **Sumativa:** valoración final de resultados e impacto.
+
+### 7.2. Técnicas de evaluación
+- Cuestionarios de satisfacción.  
+- Entrevistas y grupos focales.  
+- Rúbricas de competencias.  
+- Indicadores de impacto (éxito escolar, inserción laboral, participación comunitaria).
+
+### 7.3. Investigación-acción
+La evaluación se concibe como parte de la mejora continua. La investigación-acción permite al equipo orientador **reflexionar, ajustar y transformar** sus prácticas.
+
+---
+
+## 8. Síntesis y actividades de cierre
+
+La orientación debe entenderse como un proceso planificado, flexible y evaluable. El éxito depende tanto de los recursos empleados como de la capacidad de implicar a la comunidad educativa y social. El educador social desempeña un papel clave como **diseñador, mediador y evaluador** de programas.
+
+### Actividades finales
+1. Diseña un programa integral de orientación para jóvenes migrantes, integrando estrategias individuales, grupales y comunitarias.  
+2. Realiza un mapa de recursos de orientación disponibles en tu localidad.  
+3. Evalúa un programa real (PAT, proyecto comunitario) y propone mejoras.  
+4. Debate: ¿cómo innovar en orientación sin perder rigor académico?
+
+---
+
+## Bibliografía básica de la unidad
+
+- Bisquerra, R. (1998). *Modelos de orientación e intervención psicopedagógica*. Praxis.  
+- Grañeras, M. & Parras, A. (2008). *Orientación educativa: fundamentos teóricos, modelos institucionales y nuevas perspectivas*. MEC.  
+- Martín, E. & Solé, I. (2011). *Orientación educativa: modelos y estrategias de intervención*. Graó.  
+- Pantoja, A. (2009). *Intervención psicopedagógica en la sociedad de la información*. EOS.  
+- Sanchiz, M. L. (2009). *Modelos de orientación e intervención psicopedagógica*. UJI.
