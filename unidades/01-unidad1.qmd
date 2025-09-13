@@ -3,25 +3,135 @@ title: "Unidad 1. Fundamentos de la orientación educativa y profesional"
 ---
 
 ## 1. Introducción
-La orientación es un **proceso continuo, preventivo e integral** dirigido a todas las personas y a lo largo de la vida.
 
-## 2. Origen y evolución
-Breve recorrido histórico (Parsons, Rogers, desarrollos en España: IOP, LOGSE, LOMLOE).
+La orientación educativa se ha consolidado como un campo fundamental de la pedagogía y de la educación social. Su finalidad es acompañar a las personas en su desarrollo integral, ayudándolas a tomar decisiones informadas y a construir itinerarios vitales en contextos cambiantes.  
 
-## 3. Concepto, principios, funciones y áreas
-- **Concepto**: proceso de ayuda continuo.
-- **Principios**: prevención, desarrollo, intervención social, empowerment.
-- **Funciones**: diagnóstico, asesoramiento, programas, evaluación, coordinación, investigación.
-- **Áreas**: educativa, profesional/laboral, socio-comunitaria.
+En esta primera unidad se abordan los **fundamentos conceptuales, históricos y profesionales** de la orientación. Se estudia su evolución, los principios que la inspiran, las funciones y áreas de intervención, así como las competencias requeridas para ejercerla en el ámbito educativo y social.  
 
 ::: {.callout-note}
-**Actividad**: elabora un mapa conceptual con principios y funciones.
+**Objetivo de la unidad**  
+Comprender el marco teórico y práctico de la orientación educativa como base para el análisis de modelos y estrategias de intervención.
 :::
 
-## 4. Competencias y formación del orientador/a
-Dimensiones de competencia (saber, saber hacer, saber ser) y retos actuales (TIC, inclusión, mediación).
+---
 
-## 5. Síntesis
-La orientación ha pasado de lo asistencial a enfoques preventivos y comunitarios.
+## 2. Evolución histórica de la orientación
 
-> Amplía este capítulo pegando aquí el texto completo que ya hemos redactado para la U1.
+### 2.1. Primeros antecedentes
+- **EE. UU. (inicios del siglo XX):** Frank Parsons (1909) desarrolla la teoría de **rasgos y factores**, vinculada a la elección vocacional.  
+- **Europa:** movimientos de educación personalizada y atención a la diversidad.  
+- **España:** primeras experiencias de orientación laboral en los años 20–30; posterior influencia de la psicología humanista (Rogers) y la pedagogía social.
+
+### 2.2. De la orientación vocacional a la orientación integral
+- Décadas de 1950–60: consolidación del *counseling* centrado en la persona.  
+- Décadas de 1970–80: giro hacia enfoques preventivos y de desarrollo.  
+- Décadas de 1990–2000: institucionalización en el sistema educativo español (LOGSE, 1990).  
+- Actualidad: enfoque competencial, inclusión educativa, educación emocional y orientación a lo largo de la vida.
+
+### 2.3. Aportaciones a la Educación Social
+La orientación ha ampliado su campo más allá de la escuela, abarcando **programas comunitarios, mediación social y orientación laboral**, ámbitos clave de la Educación Social.
+
+---
+
+## 3. Concepto de orientación educativa
+
+Diversos autores la definen como un **proceso de ayuda continuo y sistemático**, dirigido a todas las personas y a lo largo de toda la vida, con el objetivo de favorecer su desarrollo personal, social, académico y profesional [@Bisquerra1998; @GranerasParras2008].
+
+Características esenciales:
+- Es **preventiva** y no solo remedial.  
+- Acompaña al individuo en **todas las etapas vitales**.  
+- Se desarrolla en contextos **educativos, sociales y comunitarios**.  
+- Implica la colaboración de múltiples agentes (docentes, orientadores, educadores sociales, familias).  
+
+---
+
+## 4. Principios rectores de la orientación
+
+1. **Prevención:** anticiparse a los problemas antes de que surjan.  
+2. **Desarrollo:** acompañar los procesos de maduración personal y social.  
+3. **Intervención social:** atender a colectivos vulnerables y favorecer la inclusión.  
+4. **Integralidad:** abarcar dimensiones académicas, personales, sociales y profesionales.  
+5. **Continuidad:** a lo largo de la vida.  
+6. **Individualización:** adaptación a las características de cada persona.  
+7. **Participación:** implicar a todos los agentes educativos y sociales.  
+
+::: {.callout-tip}
+**Actividad**  
+Elabora un mapa conceptual que muestre las relaciones entre los principios de la orientación.
+:::
+
+---
+
+## 5. Funciones de la orientación
+
+De acuerdo con Bisquerra (1998) y Martín & Solé (2011), las funciones principales son:
+
+- **Diagnóstico y evaluación psicopedagógica.**  
+- **Asesoramiento** a alumnado, familias, profesorado y comunidad.  
+- **Diseño y aplicación de programas** de orientación.  
+- **Prevención y desarrollo** de competencias socioemocionales.  
+- **Intervención en dificultades de aprendizaje y adaptación.**  
+- **Coordinación** de agentes educativos y sociales.  
+- **Evaluación y mejora** de la propia práctica orientadora.  
+- **Investigación e innovación** en orientación y educación.  
+
+---
+
+## 6. Áreas de intervención
+
+1. **Orientación personal y social:** autoestima, habilidades sociales, educación emocional, prevención de riesgos.  
+2. **Orientación académica:** técnicas de estudio, hábitos de trabajo, motivación escolar.  
+3. **Orientación profesional y laboral:** toma de decisiones, itinerarios formativos, inserción sociolaboral.  
+4. **Orientación comunitaria:** mediación intercultural, programas de inclusión, participación ciudadana.  
+
+### Ejemplo en Educación Social
+Un educador social diseña un programa de **educación emocional** en un centro de menores. El objetivo es mejorar la gestión de conflictos y favorecer la convivencia a través de dinámicas grupales.
+
+---
+
+## 7. Competencias profesionales del orientador/a
+
+El perfil del orientador se articula en torno a tres dimensiones:
+
+- **Saber:** conocimientos en psicología, pedagogía, sociología y educación social.  
+- **Saber hacer:** diseño de programas, aplicación de técnicas de orientación, trabajo en red.  
+- **Saber ser:** competencias éticas, relacionales y de compromiso social.  
+
+Retos actuales:  
+- Integrar la **educación emocional** en los procesos orientadores.  
+- Gestionar la **diversidad cultural y social** en entornos educativos.  
+- Usar de forma crítica las **tecnologías digitales** en orientación.  
+- Actuar como **agente de inclusión y justicia social**.
+
+---
+
+## 8. Retos y perspectivas de futuro
+
+La orientación educativa afronta desafíos como:  
+- La digitalización y la brecha tecnológica.  
+- La diversidad cultural y las migraciones.  
+- La precariedad laboral juvenil y la orientación profesional en contextos inciertos.  
+- La necesidad de fortalecer la cooperación entre escuela, familia y comunidad.  
+
+En este marco, la **Educación Social** aporta una visión crítica y comunitaria, centrada en la inclusión, el empoderamiento y la transformación social.
+
+---
+
+## 9. Síntesis y actividades de cierre
+
+📌 La orientación educativa es un proceso integral, preventivo y de desarrollo, con funciones que van desde el diagnóstico hasta la innovación. Sus principios y áreas de intervención constituyen la base para comprender los modelos que se estudiarán en la Unidad 2.  
+
+### Actividades finales
+1. Elabora una línea de tiempo con la evolución histórica de la orientación educativa en España y en Europa.  
+2. Analiza un caso real de intervención social (p. ej., un programa municipal contra el absentismo) e identifica qué funciones de la orientación se ponen en práctica.  
+3. Debate: ¿qué retos debe priorizar la orientación educativa en la sociedad actual?  
+
+---
+
+## Bibliografía básica de la unidad
+
+- Bisquerra, R. (1998). *Modelos de orientación e intervención psicopedagógica*. Barcelona: Praxis.  
+- Grañeras, M. & Parras, A. (2008). *Orientación educativa: fundamentos teóricos, modelos institucionales y nuevas perspectivas*. MEC.  
+- Martín, E. & Solé, I. (2011). *Orientación educativa: modelos y estrategias de intervención*. Graó.  
+- Sanchiz, M. L. (2009). *Modelos de orientación e intervención psicopedagógica*. Castelló: UJI.  
+- Álvarez, M. & Bisquerra, R. (2012). *Orientación educativa. Modelos, áreas, estrategias y recursos*. Wolters Kluwer.  
