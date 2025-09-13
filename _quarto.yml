@@ -56,8 +56,6 @@ format:
     number-sections: true
     code-fold: false
     link-citations: true
-    
-bibliography: referencias.bib
 
 execute:
   freeze: auto
