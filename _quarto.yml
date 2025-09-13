@@ -33,6 +33,8 @@ book:
     right:
       - icon: github
         href: https://github.com/Samigabacho/orientacion-educativa-libro
+      - text: "Glosario"
+        href: glosario.qmd
 
   favicon: fig/u2-modelos-cuadro.png
 
