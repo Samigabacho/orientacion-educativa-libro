@@ -22,7 +22,9 @@ book:
       chapters:
         - unidades/03-unidad3.qmd
     - cierre.qmd
-     - glosario.qmd    
+    
+    - glosario.qmd
+    
   sidebar:
     style: floating
     search: true
