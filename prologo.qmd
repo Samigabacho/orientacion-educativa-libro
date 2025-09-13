@@ -2,11 +2,29 @@
 title: "Prólogo"
 ---
 
-Este libro web nace con la intención de proporcionar un recurso en abierto para el
-alumnado de **Educación Social**. Combina un enfoque **académico** con recursos **didácticos** (cuadros, ejemplos, actividades).
+La orientación educativa en contextos sociales constituye un ámbito de estudio y de intervención de gran relevancia en la sociedad actual. Este libro nace con la finalidad de ofrecer al alumnado del **Grado en Educación Social** de la Universidad de Jaén un material de apoyo académico y didáctico, que complemente las clases y permita profundizar en los contenidos de la asignatura *Orientación educativa en contextos sociales*.  
 
-- A lo largo de este matrial encontrarás **citas** que te llevarán a la referenvia original de donde se ha extraido dicha idea.
-- En el material además porás encontrar figuras e imagenes creadas por el autor o versionadas de la fuente original.
-- Además se presentan ejemplos y casos a lo largo del continido para tratar de aterrizar los contenidos sobre su aplicación.
+El texto combina **rigurosidad científica** —al apoyarse en manuales y referencias académicas de reconocido prestigio— con un enfoque **didáctico** que incluye ejemplos prácticos, cuadros comparativos y actividades para la reflexión y la aplicación.  
+
+La estructura del manual se organiza en tres grandes unidades:
+
+1. **Unidad 1. Fundamentos de la orientación educativa y profesional**  
+   Presenta el marco conceptual, los principios rectores, funciones y áreas de intervención, así como la evolución histórica de la orientación.
+
+2. **Unidad 2. Modelos, líneas y corrientes de la orientación educativa**  
+   Analiza los principales modelos de intervención (counseling, consulta, programas, institucional y tecnológico), junto a enfoques emergentes y críticos. Es el núcleo central de la asignatura.
+
+3. **Unidad 3. Diseño y aplicación de la orientación**  
+   Ofrece estrategias, recursos, técnicas y métodos para llevar la orientación a la práctica, con especial atención al diseño de programas y su evaluación.
+
+El libro culmina con un **cierre de síntesis** que subraya la relevancia de la orientación como derecho y como herramienta de transformación social.  
+
+::: {.callout-tip}
+**Recomendación de uso**  
+Lee cada unidad junto con las actividades propuestas. Complementa tu estudio con las referencias bibliográficas y participa en los debates en clase para integrar teoría y práctica.
+:::
+
+---
+
 
 Me gustaría dedicar este libro web a Inma, Julia y Samuel, sin vosotros nada habría sido posible.
