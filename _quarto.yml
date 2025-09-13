@@ -36,6 +36,10 @@ book:
 
   favicon: fig/u2-modelos-cuadro.png
 
+website:
+  site-url: https://samigabacho.github.io/orientacion-educativa-libro
+  repo-url: https://github.com/Samigabacho/orientacion-educativa-libro
+
 format:
   html:
     toc: true
