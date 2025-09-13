@@ -1,67 +1,170 @@
 ---
-title: "Unidad 2. Modelos, líneas y corrientes de la orientación"
+title: "Unidad 2. Modelos, líneas y corrientes de la orientación educativa"
 ---
 
 ## 1. Introducción
 
-Los **modelos de orientación** ofrecen marcos teórico-prácticos para planificar, aplicar y evaluar la intervención. En esta unidad se abordan los modelos clásicos (counseling, consulta, programas, institucional y tecnológico) y se vinculan con **situaciones reales de Educación Social**.
+Los **modelos de orientación** son marcos de referencia que permiten organizar la práctica profesional a partir de fundamentos teóricos contrastados. En educación, un modelo se concibe como una **representación simplificada de la realidad** que ayuda a interpretar, analizar y guiar la acción. Como señala Bunge, los modelos cumplen una doble función: explican fenómenos y orientan la intervención. En este sentido, constituyen **puentes entre teoría y práctica** [@Bisquerra1998; @MartinSole2011; @Sanchiz2009].
 
-::: {.callout-note}
-**Objetivo de la unidad**  
-Relacionar fundamentos teóricos con decisiones prácticas de intervención, incorporando criterios de calidad, prevención y equidad.
-:::
+En orientación educativa, los modelos delimitan **qué se hace, cómo se hace, con qué finalidad y con qué recursos**. Gracias a ellos, los profesionales pueden seleccionar estrategias ajustadas a las necesidades de personas y comunidades. En el ámbito de la **Educación Social**, trabajar con modelos resulta esencial, ya que los contextos suelen ser diversos, complejos y cambiantes.
 
----
-
-## 2. Clasificaciones y fuentes
-
-Síntesis de clasificaciones habituales (p. ej., @RodriguezEspinar1986; @Bisquerra1998; @MartinSole2011; @Sanchiz2009), destacando:
-- Enfoques **centrados en la persona** (counseling).
-- Enfoques **indirectos** (consulta).
-- Enfoques **universales y preventivos** (programas).
-- Enfoques **organizativos** (institucional).
-- Enfoques **mediados por TIC** (tecnológico).
+Diversos autores han propuesto clasificaciones. Rodríguez Espinar (1986) distingue entre modelos centrados en la persona (*counseling*), en la organización (institucionales) y en la comunidad (programas). Álvarez y Bisquerra (2012) diferencian modelos de intervención individual, indirecta y sistémica. Lázaro y Mudarra (1985) destacan la importancia de los enfoques preventivos. Todas coinciden en que **no existe un único modelo válido en todo tiempo y lugar**, sino que es necesario **combinar estrategias** según el contexto.
 
 ---
 
-## 3. Modelos principales
+## 2. Modelo de intervención directa individualizada
 
-### 3.1. Modelo de *Counseling* (asesoramiento)
+### Marco teórico y evolución
+El modelo de intervención directa individualizada tiene sus raíces en la **orientación vocacional clásica** de Frank Parsons (1909), basada en la teoría de rasgos y factores, y en el *counseling* humanista de Carl Rogers (1951). Ambos coinciden en situar la relación de ayuda en el centro del proceso, aunque con matices: Parsons la vinculaba a la elección vocacional; Rogers la entendió como un espacio para el crecimiento personal.
 
-**Marco teórico.**  
-De la orientación vocacional de Parsons a la psicología humanista de Rogers, el *counseling* enfatiza la **relación de ayuda** centrada en la persona y la toma de decisiones autónoma [@Parsons1909; @Rogers1951; @Bisquerra1998].
+### Características principales
+- Relación **cara a cara** entre orientador y orientado.  
+- Objetivo: **resolver problemas concretos** o facilitar la toma de decisiones.  
+- Uso de entrevistas, tests psicométricos y técnicas de escucha activa.  
+- El orientador actúa como **facilitador** más que como experto que dicta soluciones.
 
-**Características.**
-- Relación **individual** y confidencial.
-- Finalidad: **autoconocimiento** y toma de decisiones.
-- Técnicas: entrevista, escucha activa, instrumentos psicométricos **como apoyo**.
-- Rol profesional: **facilitador** del desarrollo, no “experto que prescribe”.
+### Ventajas y limitaciones
+- **Ventajas**: atención personalizada, utilidad en situaciones de crisis, fortalecimiento de la autonomía.  
+- **Limitaciones**: alcance reducido, riesgo de centrarse solo en lo clínico, escasa vinculación con el contexto comunitario.
 
-**Ventajas y límites.**
-
-| Aportaciones | Límites |
-|---|---|
-| Atención profunda y personalizada | Alcance reducido (intervención individual) |
-| Desarrolla autonomía y decisiones informadas | Riesgo de sesgo clínico si se descontextualiza |
-| Útil en crisis y transiciones | Exige alta competencia relacional |
-
-**Ejemplo en Educación Social.**  
-Acompañamiento individual a joven extutelado que inicia un itinerario de FP: 4–6 sesiones para clarificar metas, mapa de apoyos y plan de acción.
+### Ejemplo en Educación Social
+Un educador social en un centro de menores mantiene entrevistas periódicas con un adolescente que duda entre continuar en Bachillerato o matricularse en un ciclo de FP. A través de sesiones individuales, exploran intereses, recursos disponibles y barreras, elaborando un plan de acción conjunto.
 
 ::: {.callout-tip}
 **Actividad**  
-Diseña un guion breve de entrevista (20–30 min) para explorar intereses, apoyos y barreras de un/a joven en transición a la vida adulta.
+Diseña un guion de entrevista breve para orientar a un joven extutelado que debe decidir entre incorporarse al mercado laboral o seguir estudiando.
 :::
 
 ---
 
-### 3.2. Modelo de Consulta
+## 3. Modelo de consulta
 
-**Marco teórico.**  
-La consulta desplaza el foco al **asesoramiento indirecto**: el orientador apoya a docentes/educadores/familias para que sean ellos quienes apliquen la intervención [@Caplan1970; @MartinSole2011; @Sanchiz2009].
+### Marco teórico
+Desarrollado por Caplan (1970), este modelo plantea que el orientador **no interviene directamente con el alumno**, sino que asesora a otros agentes (docentes, familias, educadores sociales) para que sean ellos quienes apliquen las estrategias. Se trata de un modelo de **asesoramiento indirecto**.
 
-**Relación triádica.**
-Orientador (consultor) → Consultee (docente/educador/familia) → Cliente (alumno/grupo).
+### Características principales
+- Relación **triádica**: orientador – consultee – cliente.  
+- Objetivo: capacitar al profesorado y otros agentes para mejorar su práctica.  
+- Proceso: identificación del problema → análisis de causas → diseño de estrategias → evaluación conjunta.  
+- Promueve corresponsabilidad y trabajo en red.
+
+### Ventajas y limitaciones
+- **Ventajas**: multiplica el alcance del orientador, fomenta la prevención, empodera a los agentes educativos.  
+- **Limitaciones**: depende del compromiso del profesorado, riesgo de superficialidad si no se concreta en acciones.
+
+### Ejemplo en Educación Social
+Un educador social asesora a un grupo de monitores de un centro juvenil que detectan altos niveles de absentismo escolar. El orientador no trabaja directamente con los adolescentes, sino que capacita a los monitores para implementar estrategias de motivación y seguimiento.
+
+::: {.callout-tip}
+**Actividad**  
+Simula una reunión de consulta.  
+- Rol 1: orientador  
+- Rol 2: profesor  
+- Rol 3: alumno con absentismo  
+Objetivo: acordar un plan de acción compartido.
+:::
+
+---
+
+## 4. Modelo de programas
+
+### Marco teórico
+Surge como respuesta a la necesidad de que la orientación llegue a **todo el alumnado** y no solo a quienes solicitan ayuda. Un programa se concibe como un **conjunto planificado, secuenciado y evaluado de actividades** dirigidas a objetivos claros [@Morrill1974; @Bisquerra1998].
+
+### Fases de un programa
+1. Detección de necesidades.  
+2. Definición de objetivos evaluables.  
+3. Selección de contenidos y actividades.  
+4. Implementación y coordinación.  
+5. Evaluación inicial, formativa y final.  
+
+### Ventajas y limitaciones
+- **Ventajas**: universaliza la orientación, favorece la prevención, permite evaluar el impacto, fomenta la implicación de toda la comunidad.  
+- **Limitaciones**: riesgo de burocratización, necesidad de recursos, posible rigidez si no se adapta al contexto.
+
+### Ejemplo en Educación Social
+Un programa municipal contra el abandono escolar en barrios vulnerables incluye: tutorías grupales, talleres de habilidades sociales, mediación con familias y coordinación con servicios comunitarios.
+
+::: {.callout-note}
+**Guía rápida de calidad del programa**  
+Pertinencia · Coherencia · Flexibilidad · Evaluabilidad [@GranerasParras2008].
+:::
+
+---
+
+## 5. Modelo institucional
+
+### Marco teórico
+Se basa en la **integración de la orientación en la estructura organizativa** de los centros educativos y de los sistemas sociales. En España, la LOGSE (1990) institucionalizó la orientación mediante **Departamentos de Orientación (DO)** en secundaria y **Equipos de Orientación Educativa y Psicopedagógica (EOEP)** en primaria.
+
+### Características principales
+- Cobertura universal: todo el alumnado tiene derecho a orientación.  
+- Trabajo multiprofesional: orientadores, psicólogos, pedagogos, educadores sociales.  
+- Coordinación entre escuela, familia y comunidad.  
+- Planificación institucional: PAT, POAT, PEC.
+
+### Ventajas y limitaciones
+- **Ventajas**: garantiza continuidad y equidad, refuerza la coordinación, asegura estabilidad.  
+- **Limitaciones**: riesgo de burocratización, desigualdades territoriales, sobrecarga de funciones.
+
+### Ejemplo en Educación Social
+En un instituto de secundaria, un educador social participa en el DO coordinando programas de absentismo. Su labor consiste en mediar con familias, contactar con servicios sociales y apoyar al alumnado en riesgo.
+
+::: {.callout-tip}
+**Actividad**  
+Analiza cómo se organiza la orientación en tu comunidad autónoma.  
+¿Qué papel desempeñan los educadores sociales?
+:::
+
+---
+
+## 6. Modelo tecnológico (transversal)
+
+### Marco teórico
+El modelo tecnológico responde a la necesidad de integrar las **TIC en orientación**. Incluye plataformas online, recursos digitales interactivos, orientación a distancia y apps móviles [@Pantoja2009; @MartinSole2011].
+
+### Características principales
+- Uso de recursos digitales para el autoconocimiento y la exploración profesional.  
+- Accesibilidad: favorece a personas en zonas rurales o con dificultades de movilidad.  
+- Favorece la autoorientación y el aprendizaje autónomo.  
+- Riesgo: brecha digital y despersonalización.
+
+### Ejemplo en Educación Social
+Un programa de orientación laboral utiliza una app que ayuda a jóvenes migrantes a identificar sus competencias. Posteriormente, educadores sociales acompañan presencialmente para validar y enriquecer el plan de acción.
+
+::: {.callout-note}
+**Actividad**  
+Analiza una plataforma digital de orientación (p. ej., Educaweb).  
+¿Qué ventajas y límites tiene para colectivos vulnerables?
+:::
+
+---
+
+## 7. Comparación y síntesis
+
+📊 **Tabla comparativa de modelos**
+
+| Modelo | Origen | Características | Ventajas | Limitaciones | Ejemplo en Educación Social |
+|--------|--------|-----------------|----------|--------------|-----------------------------|
+| Directo (Counseling) | Parsons, Rogers | Relación individual | Atención personalizada | Alcance reducido | Entrevistas con jóvenes extutelados |
+| Consulta | Caplan | Asesoramiento indirecto | Multiplica impacto | Depende del profesorado | Orientador asesora a monitores |
+| Programas | Morrill, Bisquerra | Planificación sistemática | Prevención universal | Riesgo burocrático | Programa municipal anti-abandono |
+| Institucional | LOGSE, EOEP, DO | Integración en estructuras | Cobertura universal | Burocracia, desigualdad | Educador social en DO |
+| Tecnológico | Sociedad de la información | TIC en orientación | Accesibilidad, innovación | Brecha digital | App de competencias para migrantes |
+
+### Reflexión final
+Los modelos de orientación **no son excluyentes**: la práctica profesional exige una visión integradora y flexible. El educador social debe conocerlos todos, valorarlos críticamente y adaptarlos a cada situación, trabajando en red con otros agentes.
+
+---
+
+## Bibliografía básica de la unidad
+
+- Bisquerra, R. (1998). *Modelos de orientación e intervención psicopedagógica*. Barcelona: Praxis.  
+- Grañeras, M. & Parras, A. (2008). *Orientación educativa: fundamentos teóricos, modelos institucionales y nuevas perspectivas*. MEC.  
+- Martín, E. & Solé, I. (2011). *Orientación educativa: modelos y estrategias de intervención*. Graó.  
+- Morrill, W. H., Oetting, E. R. & Hurst, J. C. (1974). *Dimensions of Counselor Function*. Houghton Mifflin.  
+- Pantoja, A. (2009). *Intervención psicopedagógica en la sociedad de la información*. EOS.  
+- Sanchiz, M. L. (2009). *Modelos de orientación e intervención psicopedagógica*. Castelló: UJI.
 
 **Fases.**
 1) Identificación y **formulación del problema**.  
