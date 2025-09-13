@@ -39,7 +39,7 @@ book:
   favicon: fig/u2-modelos-cuadro.png
 
 bibliography: referencias.bib
-csl: apa-spanish.csl 
+#csl: apa-spanish.csl 
 
 website:
   site-url: https://samigabacho.github.io/orientacion-educativa-libro
