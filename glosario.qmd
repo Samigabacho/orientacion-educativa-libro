@@ -1,0 +1,104 @@
+---
+title: "Glosario"
+---
+
+## Absentismo escolar
+Faltas reiteradas y no justificadas a clase. Es un factor de riesgo de fracaso y exclusión escolar, y una prioridad en los programas de orientación social y comunitaria.
+
+## Acción tutorial
+Función del profesorado orientada a guiar el proceso formativo del alumnado, coordinada con el Departamento de Orientación y el equipo docente.
+
+## Adaptación curricular
+Ajustes pedagógicos realizados para responder a las necesidades educativas específicas de algunos alumnos, garantizando equidad e inclusión.
+
+## Áreas de intervención
+Campos principales de la orientación: personal y social, académica, profesional y comunitaria.
+
+## Autonomía del alumnado
+Capacidad del estudiante para tomar decisiones y gestionar su propio proceso de aprendizaje. Es una meta central en la orientación.
+
+## Competencias del orientador/a
+Conjunto de conocimientos, habilidades y actitudes necesarios para la práctica profesional de la orientación educativa y social.
+
+## Consulta
+Modelo de intervención indirecta en el que el orientador asesora a otros agentes (profesorado, familias, educadores sociales) para que ellos desarrollen las estrategias de apoyo.
+
+## Counseling
+Término inglés para “asesoramiento” o “relación de ayuda”. Modelo centrado en la persona, de origen humanista (Carl Rogers), basado en la escucha activa y la facilitación.
+
+## Desarrollo personal
+Proceso de crecimiento integral de la persona en sus dimensiones cognitiva, emocional, social y moral, objetivo esencial de la orientación.
+
+## Diagnóstico psicopedagógico
+Proceso de evaluación de características, necesidades y potencialidades del alumnado, con el fin de planificar intervenciones ajustadas.
+
+## Educación emocional
+Proceso educativo, continuo y permanente, que potencia el desarrollo de competencias emocionales como parte del desarrollo integral.
+
+## Educación social
+Disciplina y profesión que interviene en contextos educativos no formales, comunitarios e institucionales, orientada a la inclusión, la cohesión social y la ciudadanía activa.
+
+## Entrevista de orientación
+Técnica individual de interacción cara a cara entre orientador y orientado, centrada en la exploración de intereses, necesidades y toma de decisiones.
+
+## Equipo multiprofesional
+Grupo de especialistas (orientadores, pedagogos, educadores sociales, psicólogos, trabajadores sociales) que intervienen de manera coordinada en procesos de orientación.
+
+## Evaluación de programas
+Valoración sistemática de la pertinencia, eficacia y calidad de los programas de orientación, con fines de mejora continua.
+
+## Funciones de la orientación
+Conjunto de tareas que abarcan diagnóstico, asesoramiento, prevención, coordinación, intervención, evaluación e innovación.
+
+## Inclusión educativa
+Principio que garantiza la igualdad de oportunidades y la participación plena de todo el alumnado, independientemente de sus características.
+
+## Intervención comunitaria
+Conjunto de acciones socioeducativas en un territorio, coordinadas con agentes comunitarios, para favorecer cohesión, inclusión y participación ciudadana.
+
+## Itinerario formativo
+Secuencia planificada de etapas y decisiones educativas que permiten a una persona alcanzar sus metas académicas y profesionales.
+
+## LOMLOE
+Ley Orgánica de Modificación de la LOE (2020), marco normativo actual del sistema educativo español, que refuerza la equidad y la inclusión.
+
+## Mediación escolar
+Estrategia de resolución pacífica de conflictos en centros educativos, promovida por orientadores, profesorado o alumnado mediador.
+
+## Mediación intercultural
+Proceso de acompañamiento entre personas de diferentes culturas para favorecer la integración, la convivencia y la igualdad de derechos.
+
+## Modelo institucional
+Enfoque de orientación organizado desde estructuras formales (Departamentos de Orientación, EOEP, gabinetes), garantizando cobertura universal.
+
+## Modelo tecnológico
+Aplicación de las TIC en orientación: plataformas digitales, tutorías online, recursos interactivos. Favorece la accesibilidad, pero plantea retos de brecha digital.
+
+## Orientación académica
+Acciones que ayudan al alumnado a mejorar el rendimiento escolar, los hábitos de estudio y la motivación, y a planificar trayectorias educativas.
+
+## Orientación personal y social
+Intervención destinada a favorecer la autoestima, las habilidades sociales, la educación emocional y la prevención de riesgos.
+
+## Orientación profesional
+Acciones que acompañan a las personas en la toma de decisiones sobre su futuro formativo y laboral, apoyando la inserción en el mundo del trabajo.
+
+## Orientación a lo largo de la vida
+Principio que reconoce que la orientación debe ofrecerse en todas las etapas vitales, desde la infancia hasta la edad adulta.
+
+## PAT (Plan de Acción Tutorial)
+Documento que organiza la tutoría en los centros educativos, planificando actividades de orientación personal, académica y social.
+
+## POAT (Plan de Orientación Académica y Profesional)
+Documento institucional que recoge actuaciones de orientación para la toma de decisiones formativas y profesionales.
+
+## Prevención
+Principio rector de la orientación que busca anticiparse a problemas potenciales y promover el desarrollo de competencias para afrontarlos.
+
+## Programas de orientación
+Conjunto planificado y evaluado de actividades orientadoras dirigidas a un grupo o comunidad con objetivos claros y secuenciados.
+
+## TIC en orientación
+Tecnologías de la Información y la Comunicación aplicadas al ámbito orientador: apps, webs, recursos online y entornos virtuales.
+
+---
