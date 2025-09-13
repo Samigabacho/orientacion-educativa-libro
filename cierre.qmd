@@ -2,14 +2,31 @@
 title: "Cierre general"
 ---
 
-La orientación educativa en contextos sociales es un derecho y una herramienta
-para la inclusión y la transformación social. A lo largo del libro hemos visto:
+La orientación educativa, entendida como un proceso **integral, preventivo y de desarrollo**, se configura hoy como un derecho universal y un recurso esencial para promover la equidad y la inclusión social.  
 
-1. **Fundamentos (U1)**: evolución, concepto, principios, funciones y competencias.
-2. **Modelos (U2)**: marcos teórico-prácticos y enfoques emergentes, con ejemplos en Educación Social.
-3. **Diseño (U3)**: cómo planificar, aplicar y evaluar programas de orientación.
+A lo largo de este manual se han recorrido tres grandes bloques:  
 
-**Actividades finales sugeridas**
-- Proyecto integral de orientación para un contexto real (instituto, barrio, centro de protección).
-- Mapa conceptual que conecte fundamentos → modelos → diseño.
-- Ensayo reflexivo sobre el papel del educador/a social en la orientación.
+- **Unidad 1. Fundamentos:** evolución histórica, principios, funciones y áreas.  
+- **Unidad 2. Modelos:** marcos de intervención clásicos y emergentes, con ejemplos aplicados a la Educación Social.  
+- **Unidad 3. Diseño y aplicación:** estrategias, recursos y métodos para trasladar la orientación a la práctica.  
+
+De este recorrido se desprenden varias ideas clave:
+
+1. La orientación no puede limitarse a atender casos individuales, sino que debe concebirse como **acción planificada y comunitaria**.  
+2. Los **modelos de intervención** son herramientas flexibles, no recetas cerradas: el profesional debe combinarlos según el contexto.  
+3. La práctica orientadora debe estar anclada en los **principios de equidad, inclusión y justicia social**, propios de la Educación Social.  
+4. La **evaluación y la innovación** son condiciones indispensables para garantizar la calidad de los programas de orientación.  
+
+### Actividades finales de integración
+
+1. Diseña un **plan integral de orientación socioeducativa** aplicable a un contexto real (centro educativo, barrio, asociación).  
+2. Elabora un **mapa conceptual global** que conecte fundamentos → modelos → diseño.  
+3. Redacta un **ensayo breve** (5 páginas) sobre el papel del educador/a social como orientador/a en la sociedad actual.  
+
+### Reflexión de cierre
+
+La orientación educativa es una disciplina en constante evolución que trasciende la escuela para convertirse en un factor de cohesión social y desarrollo humano. Para los futuros educadores y educadoras sociales, supone un campo de acción que combina conocimiento académico, habilidades profesionales y compromiso ético.  
+
+El reto no es solo orientar trayectorias individuales, sino **acompañar procesos colectivos, empoderar comunidades y transformar la realidad social**.
+
+---
