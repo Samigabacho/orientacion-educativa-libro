@@ -58,6 +58,6 @@ format:
     link-citations: true
     
 bibliography: referencias.bib
-# csl: apa-spanish.csl   # (Opcional) añade tu estilo APA en español más adelante
+csl: apa-spanish.csl   # (Opcional) añade tu estilo APA en español más adelante
 execute:
   freeze: auto
