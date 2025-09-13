@@ -11,4 +11,4 @@ Bienvenido/a al libro web de la asignatura Orientación Educativa en Contexto So
 > **Objetivo del libro**
 > Ofrecer material rigurosos, didácticos y en abierto, para estudiantes del Grado en Educación Social (UJA), con ejemplos aplicados y actividades.
 
-#Para citar, usa `[@AutorAño]` y gestiona la bibliografía en `referencias.bib`.
+Para citar, usa `[@AutorAño]` y gestiona la bibliografía en `referencias.bib`.
